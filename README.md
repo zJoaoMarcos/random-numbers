@@ -1,4 +1,4 @@
-#                                TASK 
+#                                UNIVERSITY TASK
 
 # Create an array with random numbers from 0 to 999 and then sort this array
 
